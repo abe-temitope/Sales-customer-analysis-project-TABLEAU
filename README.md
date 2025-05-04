@@ -34,8 +34,8 @@ This project features two interactive dashboards built in Tableau, focusing on s
 ---
 
 ## Preview
-![Sales Dashboard Preview](path-to-sales-dashboard-image.png)
-![Customer Dashboard Preview](path-to-customer-dashboard-image.png)
+![Sales Dashboard Preview](Tableau-Sales-Customer-Insight-Project/Images)
+![Customer Dashboard Preview](Tableau-Sales-Customer-Insight-Project/Images)
 
 ---
 
