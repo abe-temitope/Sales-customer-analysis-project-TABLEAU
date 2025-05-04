@@ -40,7 +40,7 @@ This project features two interactive dashboards built in Tableau, focusing on s
 ---
 
 ## How to Access
-- Tableau Dashboard Link: [Click Here](#)
+- Tableau Dashboard Link: [https://public.tableau.com/views/SalesCustomerDashboardProject_17427045025650/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#)
 
 ---
 
