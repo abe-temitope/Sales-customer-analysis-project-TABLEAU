@@ -34,8 +34,8 @@ This project features two interactive dashboards built in Tableau, focusing on s
 ---
 
 ## Preview
-![Sales Dashboard Preview](Tableau-Sales-Customer-Insight-Project/Images)
-![Customer Dashboard Preview](Tableau-Sales-Customer-Insight-Project/Images)
+![Customer Dashboard](https://github.com/abe-temitope/Tableau-Sales-Customer-Insight-Project/blob/main/Images/Customer%20Dashboard%20(1).png)
+![Sales Dashboard](https://github.com/abe-temitope/Tableau-Sales-Customer-Insight-Project/raw/main/Images/Sales%20Dashboard%20(1).png)
 
 ---
 
